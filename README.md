@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web-app squadsync (websockets-based application)<br>🤝 I’m looking for help with building projects and accelerate my learning in dsa.<br>🌱 I’m currently learning nextjs , socket.io and other.
+🔭 I’m currently working on web-app IronCanvas (a collaborative whiteboard application in real-time)<br>🤝 I’m looking for help with building projects and accelerate my learning in dsa.<br>🌱 I’m currently learning nextjs , socket.io and other.
 
 
 ## 🌐 Socials:
